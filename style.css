@@ -1,0 +1,47 @@
+.container.welcome{
+  text-align: center;
+}
+
+img {
+  max-height: 500px;
+  max-width: 900px;
+}
+
+.col-8 {
+  margin: auto;
+}
+.carousel {
+  padding-bottom: 30px;
+}
+
+.secondSection {
+  background-color: #eceeef;
+  padding-top: 40px;
+}
+.container-fluid.second {
+  background-color: #eceeef;
+}
+
+.thirdSection {
+  padding-top: 40px;
+}
+.thirdImg {
+  display: block;
+  margin: auto;
+}
+.btn {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  background-color: #292b2c;
+ color: #ffffff ;
+ cursor: pointer;
+}
+.footer {
+  margin-top:  40px;
+  background-color: #292b2c;
+  width: 100%;
+}
+.KFS_LIGHT {
+  padding: 10px;
+}
